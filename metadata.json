@@ -1,0 +1,6 @@
+{
+  "name": "Maimoona Noor Fashion",
+  "description": "Pakistani luxury pret, festive formals, and heirloom bridal couture handcrafted at our flagship outlet in Karachi by Maimoona Noor Fashion.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
